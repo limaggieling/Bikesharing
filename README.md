@@ -20,13 +20,12 @@ we see that the same pattern of popularity holds for both men and women
 ![Trips by Gender Usertype per Weekday](https://github.com/limaggieling/Bikesharing/blob/main/Trips%20by%20Gender%20Usertype%20per%20Weekday.png)
 Here we see that there are more subscribers than users and that since more men are riders, they are the majority subscriber
 
-![](https://github.com/limaggieling/Bikesharing/blob/main/GeneralDashboard.png)
-![](https://github.com/limaggieling/Bikesharing/blob/main/GenderDashboard.png)
+![General Dashboard](https://github.com/limaggieling/Bikesharing/blob/main/GeneralDashboard.png)
+![Gender Dashboard](https://github.com/limaggieling/Bikesharing/blob/main/GenderDashboard.png)
 The above images show the dashboards of both general information that is telling of when repairs should take place as well as the demographics of our riders
 
 # Summary
-Tableau Link to NYC Bikesharing Dashboard
-[Link to Dashboard](https://public.tableau.com/app/profile/ling.li7807/viz/NYCBikeSharingDashboard/NYCBikeTrips?publish=yes)
+[Tableau Link to NYC Bikesharing Dashboard/Story](https://public.tableau.com/app/profile/ling.li7807/viz/NYCBikeSharingDashboard/NYCBikeTrips?publish=yes)
 The summary points are as follows:
 1) The Duration of most bike trips are less than an hour long with the most bike trip durations being around 5 minutes.
 2) Both men and women often ride their bikes between 5 and 6 minutes. There are more men who ride than women
